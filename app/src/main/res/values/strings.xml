@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">javaDeveloper</string>
+    <string name="title_home">Home</string>
+    <string name="title_action">ActionList</string>
+    <string name="title_calendere">Сalendar</string>
+    <string name="title_descreption">Описание ActionList</string>
+    <string name="title_mainmenublock">MainMenuBlock</string>
+    <string name="title_start">Начать</string>
+    <string name="btn_next">Далее</string>
+</resources>

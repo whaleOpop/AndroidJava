@@ -1,0 +1,135 @@
+{
+  "ActionDescription": "Хеллоу евребади висис лессон ви лёрн кукинг",
+  "ActionUrlImage": "https://catherineasquithgallery.com/uploads/posts/2021-03/1614857868_169-p-kulinarnii-fon-236.jpg",
+  "ActionActionStatus": "Не начато",
+  "actionParts": [
+    {
+      "Name": "Как приготовить пиццу",
+      "ShortDesp": "#Пицца,#Вкусно,#Запечь",
+      "ImageUrl": "https://img1.russianfood.com/dycontent/images_upl/309/sm_308227.jpg",
+      "CheckBox": false,
+      "ActionLists": [
+        {
+          "actionItemDescription": "Ингридиенты к пиццы",
+          "actionItemName": "Ингридиенты:\n Тесто,Помидоры,Колбаса,Маайооонец Кекчуп,Итальянец",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        },
+        {
+          "actionItemDescription": "Наризаем ингридиенты к пиццы",
+          "actionItemName": "Ингридиенты:\n Тесто,Помидоры,Колбаса,Маайооонец Кекчуп,Итальянец",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        },
+        {
+          "actionItemDescription": "Готовим ингридиенты к пиццы",
+          "actionItemName": "Ингридиенты:\n Тесто,Помидоры,Колбаса,Маайооонец Кекчуп,Итальянец",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        },
+        {
+          "actionItemDescription": "Конец",
+          "actionItemName": "Ингридиенты:\n Тесто,Помидоры,Колбаса,Маайооонец Кекчуп,Итальянец",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        }
+      ]
+    },
+    {
+      "Name": "Как приготовить борщ",
+      "ShortDesp": "#Борщ,#Первое,#КакУБабушки",
+      "ImageUrl": "https://img.povar.ru/main/ab/23/b4/9c/samii_vkusnii_borsh-404089.jpg",
+      "CheckBox": false,
+      "ActionLists": [
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к борщ",
+          "actionItemName": "Ингридиенты:\n свекла, картофель, капуста, морковь, лук, чеснок, томатная паста или свежие помидоры, соль, перец, лавровый лист, сахар, уксус, сметана и зелень",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://img.povar.ru/uploads/e7/6c/e6/6a/samii_vkusnii_borsh-404081.jpg"
+        },
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к борщ",
+          "actionItemName": "Ингридиенты:\n свекла, картофель, капуста, морковь, лук, чеснок, томатная паста или свежие помидоры, соль, перец, лавровый лист, сахар, уксус, сметана и зелень",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://img.povar.ru/uploads/e7/6c/e6/6a/samii_vkusnii_borsh-404081.jpg"
+        },
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к борщ",
+          "actionItemName": "Ингридиенты:\n свекла, картофель, капуста, морковь, лук, чеснок, томатная паста или свежие помидоры, соль, перец, лавровый лист, сахар, уксус, сметана и зелень",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://img.povar.ru/uploads/e7/6c/e6/6a/samii_vkusnii_borsh-404081.jpg"
+        },
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к борщ",
+          "actionItemName": "Ингридиенты:\n свекла, картофель, капуста, морковь, лук, чеснок, томатная паста или свежие помидоры, соль, перец, лавровый лист, сахар, уксус, сметана и зелень",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://img.povar.ru/uploads/e7/6c/e6/6a/samii_vkusnii_borsh-404081.jpg"
+        }
+      ]
+    },
+    {
+      "Name": "Как приготовить рамен",
+      "ShortDesp": "#Силвия,#RX,#Гоча",
+      "ImageUrl": "https://the-challenger.ru/wp-content/uploads/2018/05/shutterstock_379968754-800x577.jpg",
+      "CheckBox": false,
+      "ActionLists": [
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к рамен",
+          "actionItemName": "Ингридиенты:\n лапша для рамена (можно купить готовую или сделать самостоятельно), куриный или свиной бульон (можно использовать готовый или приготовить из костей и овощей), соевый соус, сахар, соль, масло растительное",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        },
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к рамен",
+          "actionItemName": "Ингридиенты:\n лапша для рамена (можно купить готовую или сделать самостоятельно), куриный или свиной бульон (можно использовать готовый или приготовить из костей и овощей), соевый соус, сахар, соль, масло растительное",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        },
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к рамен",
+          "actionItemName": "Ингридиенты:\n лапша для рамена (можно купить готовую или сделать самостоятельно), куриный или свиной бульон (можно использовать готовый или приготовить из костей и овощей), соевый соус, сахар, соль, масло растительное",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        },
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к рамен",
+          "actionItemName": "Ингридиенты:\n лапша для рамена (можно купить готовую или сделать самостоятельно), куриный или свиной бульон (можно использовать готовый или приготовить из костей и овощей), соевый соус, сахар, соль, масло растительное",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        }
+      ]
+    },
+    {
+      "Name": "Как приготовить макороны",
+      "ShortDesp": "#Быстрый,#Ужин,#5мин",
+      "ImageUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2019/11/Kak-i-skolko-varit-makarony-chtoby-oni-ne-slipalis_1574674014-640x320.jpg",
+      "CheckBox": false,
+      "ActionLists": [
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к мокоронам",
+          "actionItemName": "Ингридиенты:\n Вода,Соль,Макороны,Прямые руки",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        },
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к мокоронам",
+          "actionItemName": "Ингридиенты:\n Вода,Соль,Макороны,Прямые руки",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        },
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к мокоронам",
+          "actionItemName": "Ингридиенты:\n Вода,Соль,Макороны,Прямые руки",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        },
+        {
+          "actionItemDescription": "Приготовливаем ингридиенты к мокоронам",
+          "actionItemName": "Ингридиенты:\n Вода,Соль,Макороны,Прямые руки",
+          "actionItemstatus": "Програсс ",
+          "actionImageUrl": "https://thejigsawpuzzles.com/img-puzzle-6403518-1024/Cooking-a-Pizza"
+        }
+      ]
+    }
+  ]
+}
